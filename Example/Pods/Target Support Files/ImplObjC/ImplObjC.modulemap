@@ -1,0 +1,6 @@
+framework module ImplObjC {
+  umbrella header "ImplObjC-umbrella.h"
+
+  export *
+  module * { export * }
+}
