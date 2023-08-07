@@ -10,7 +10,7 @@
 @implementation IMUtils
 
 +(BOOL)rtl{
-    return NO;
+    return YES;
 }
 
 @end
